@@ -32,28 +32,6 @@
 
 
 
-cafeteria-website/
-├── assets/
-│ └── css/
-│ └── js/
-├── includes/
-│ └── db.php
-│ └── header.php
-├── pages/
-│ └── home.php
-│ └── menu.php
-│ └── cart.php
-│ └── admin/
-│ └── dashboard.php
-├── index.php
-├── login.php
-├── register.php
-└── config/
-└── config.php
-
-
----
-
 ## ⚙️ Installation & Setup
 
 ### 🧩 Requirements
